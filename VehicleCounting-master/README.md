@@ -1,6 +1,6 @@
-# Traffic Counting System Project
+# Raspberry pi 3 Traffic Counting System Project
 
-Using OpenCV to detect and count moving vehicles.
+Using OpenCV to detect, count moving vehicles and store total vehicle count in separate file.
 
 # Pre-preparation steps:
 
